@@ -2,7 +2,7 @@
 
 Projeto com o intuito de ser um guia para a declaração do IRPF
 
-## Salário
+## 1. Salário
 
 ### Pré requisitos
 
@@ -17,3 +17,4 @@ Projeto com o intuito de ser um guia para a declaração do IRPF
 - O 13º salário é referente ao valor líquido (após descontado IRRF e Previdência)
 
 ![Imagem declaração salário](salario-1.png)
+
