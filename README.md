@@ -16,5 +16,5 @@ Projeto com o intuito de ser um guia para a declaração do IRPF
 - Preencher todos os campos sobre a empresa e sobre o que vc recebeu
 - O 13º salário é referente ao valor líquido (após descontado IRRF e Previdência)
 
-![Imagem declaração salário](salario-1.png)
+![Imagem declaração salário](./imagens/salario-1.png)
 
